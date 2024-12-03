@@ -12,3 +12,5 @@ The Google top 1000 words is accurate as of December 2022.
 Each word appears on one line
 The words in the indexed file appear in A to Z alphabetical order.
 The program has full JavaDoc details.
+
+![design](https://github.com/user-attachments/assets/282799a7-389c-4fe0-910b-0ccd208d5a69)
